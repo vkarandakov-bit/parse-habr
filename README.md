@@ -30,4 +30,3 @@ pip install requests beautifulsoup4
 - Дата публикации
 - Заголовок
 - Ссылка
-- Найденные ключевые слова
